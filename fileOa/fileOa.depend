@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1501577385 source:e:\c_workspace\fileoa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1500969021 source:e:\c_workspace\fileoa\strutil.c
+	<string.h>
+	<stdio.h>
+
